@@ -24,14 +24,15 @@
 
 ## Revenimento (Tempered)
 - Realizado após a têmpera
-	- Feito na zona austenitica (A3) do meterial (abaixo de 723°C)
-	- Alivia as tensões do material
-	- A dureza final depende da temeperatura aplicada no tratamento
+	- Feito na zona austenitica (A3) do material (abaixo de 723°C)
+	- [[#Alívio de Tensão]]
+	- A dureza final depende da temperatura aplicada no tratamento
 
 ## Recozimento (Annealed)
 1. Aquecimento
 	- Caixa de areia ou de material isolante
 	- Forno
+	- 50 °C acima da linha de austenitização
 1. Permanência em temperatura desejável
 2. Resfriamento controlado até a temperatura ambiente
 
@@ -39,14 +40,15 @@
 - Usa o termo apontar (afinar)
 
 - Melhora a usinabilidade
-- Aumenta a ductilidade
-- Reduz a dureza e a resistência
+- Aumenta a [[000 - Propriedades dos Materiais#Ductilidade|ductilidade]]
+- Reduz a [[dureza]] e a resistência
 - [[000 - Tratamento Térmico#Alívio de Tensão|Alivia tensões internas]]
+- Geralmente após laminação para reverter o escruamento
 
 ### Intermediário
-	- Anula os efeitos da deformação plástica a frio
-	- Torna o material mais mole
-	- Aumenta a ductilidade do metal submetido ao encruamento com alto grau de deformação
+- Anula os efeitos da deformação plástica a frio
+- Torna o material mais mole
+- Aumenta a ductilidade do metal submetido ao encruamento com alto grau de deformação
 
 ### Pleno
  - Entre 15 e 40 °C acima da linha A1 ou A3
@@ -78,9 +80,9 @@
 - Boretação
 - Retaivos
 
-# Cementação
+# Cementação (Carbonetação)
 - Introdução de carbono na superfície
-- Endurece após a tempera
+- Endurece após a [[#Têmpera (Quenched)|têmpera]]
 	- A altas temperaturas
 	- Sólida ou em caixa
 	- Líquida
@@ -94,7 +96,8 @@
 
 # Nitretação
 - Nitrogênio
-- Entre 500 e 570 C
+- Entre 500 e 570 °C
+	- Temperatura em que o nitrogênio penetra no material
 - Não necessita têmpera posterior
 - Gasosa
 - Líquida
@@ -118,6 +121,10 @@
 	- 2 a 40% de carbonato de sódio
 	- 0 a 30 % de cloreto de sódio
 - Entre 760 e 870C
+	- Temperatura em os grãos de carboneto são mais estáveis
+
+# Tratamentos superficiais
+## Cementação
 - 
 
 ## Notas
@@ -126,6 +133,7 @@
  - Aços de alta liga geralmente são temperados em óleo
  - Aço eutetóide - 0,8% de carbono
  - Aços com mais liga são mais temperáveis pois a curva C do gráfico TTT é deslocada para maiores tempos
+ - O carbono é o mior responsável pela dureza do material
  
 #### Endurecimento
   - Habilidade de aumentar a dureza
@@ -147,7 +155,7 @@
 	 - Ferrita
 	 - Perlita
 	 - Cementita
-- 1020 não tempera, pois no diagrama TTT (Curva C) mostra que o tempo na fase austenítica é muito rápida, portanto não há tempera em todo material
+- 1020 não tempera, pois no diagrama TTT (Curva C) mostra que o tempo na fase austenítica é muito rápida, portanto não há tempera em todo material, a curva TTT corta o eixo das ordenadas
 
 ### Aços de Alto Carbono
  - Geralmente são tartados térmicamente 
