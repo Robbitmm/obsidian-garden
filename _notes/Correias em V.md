@@ -46,18 +46,18 @@ $$n=\frac{HPP}{hp}$$
 $$V=\frac{D*rpm \, menor}{19.100}(m/s)$$
 
 ## Potência Projetada
-![[#I. Potência Projetada]]
+![[Correias em V#I. Potência Projetada]]
 $$HPP = 40*1,3=52hp$$
 
 ### Diâmetro Maior da Polia
-![[#II. Diâmetro da Polia]]
+![[Correias em V#II. Diâmetro da Polia]]
 $$D = 180 * 1,21 = 217,8mm$$
 
 ### Distância mínima entre Centros
 $$C = 2000 - \frac{180}{2} - \frac{217,8}{2} - 1000 (circulação) = 801,1mm$$ -> 596,7
 
 ### Comprimento Experimental da Correia
-![[#IV. Comprimento experimental da Polia]]
+![[Correias em V#IV. Comprimento experimental da Polia]]
 $$L = 2 * 596,7 +1,57 * (217,8 + 180)+ (\frac{217,8-180}{4*596,7})$$
 $$L=1193,4 + 1,57*397,8+\frac{37,8}{2386,8}$$
 $$L=1193,4+624,55+0,02$$
@@ -65,7 +65,7 @@ $$L=1817,97mm$$
 
 Modelo: 5V710 -> Lc: 1805mm
 
-![[#V. Recalculo da Distância entre Centros (DC)]]
+![[Correias em V#V. Recalculo da Distância entre Centros (DC)]]
 $$A=1805-1,57*(217,8+180)$$
 $$A=1805-1,57*397,8$$
 $$A=1805-624,55$$
