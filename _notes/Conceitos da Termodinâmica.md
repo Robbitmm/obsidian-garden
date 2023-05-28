@@ -3,6 +3,7 @@ tag: conceitos da termodinâmica
 aliases: conceitos da termodinâmica
 ---
 ### Calor
+- Energia térmica
 - Sempre flui de forma espontânea do mais quente para o mais frio
 
 ### Temperatura:
@@ -31,12 +32,16 @@ Permite a troca de calor com o meio
 Não permite a troca de calor com o meio
 
 ## Processos dos gases ideais
+### Isotérmico ($T_1=T_2=\Delta u=0$)
+- [[Conceitos da Termodinâmica#Temperatura|Temperatura]] constante
+- [[Fórumlas Termodinâmica#Variação de energia interna ($ Delta u$)|Variação de energia interna]] ($\Delta u$) = 0
 ### Isotermo (Lei de Boyle)
  - Volume constante
 ### Isóbaro
  - Pressão constante
-### Isométrico
+### Isométrico / Isovolumétrico / Isocórico ($V_1=V_2=W=0$)
 - Volume constante
+- Se não há variação de volume, o trabalho (W) é 0
 ### Isentropo
 - Entropia constante
 ### Polítropo

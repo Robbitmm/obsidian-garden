@@ -5,13 +5,15 @@ aliases: termodinamica, leis da termodinâmica
 
 celsopimenta@brazcubas.edu.br
 
+[[Fórumlas Termodinâmica]]
+
 ## 1ª lei da termodinâmica
 
 - Lei da conservação de energia
     - A quantidade total de energia em um sistema isolado é sempre a mesma, exceto quando se transforma em outras energias
     - Conserva a energia em forma de calor e trabalho
     - Realiza trabalho
-    ![[Fórumlas Termodinâmica#Conservação de energia]]
+    ![[Fórumlas Termodinâmica#Variação de energia interna ($ Delta u$)]]
 [[Exercícios termodinâmica#1. Numa transferência de energia gasosa reversível. ∆u=300J. Houve uma compressão e o trabalho realizado pela força de pressão do gás é em módulo 200J.|1. Numa transferência de energia gasosa reversível. ∆u=300J. Houve uma compressão e o trabalho realizado pela força de pressão do gás é em módulo 200J.]]
 
 # 2ª Lei da Termodinâmica ($t_0 \ne t_1$)
@@ -19,6 +21,7 @@ celsopimenta@brazcubas.edu.br
   Indica a troca de valor que têm tendências para igualar diferentes temperaturas, buscando o [[#Lei 0 (Equilíbrio térmico)|equilíbrio térmico]]. Esse processo acontece de forma espontânea.
   O [[Conceitos da Termodinâmica#Calor|calor]] é transmitido do corpo com maior [[Conceitos da Termodinâmica#Temperatura|temperatura]] para o de menor [[Conceitos da Termodinâmica#Temperatura|temperatura]].
   Todo processo tem perda, nenhum sistema é 100%
+  Todo calor injetado no sistema gera trabalho e calor (desperdício)
   
 ![[Fórumlas Termodinâmica#Lei de Carnot]]
   

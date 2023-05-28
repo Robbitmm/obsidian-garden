@@ -43,7 +43,7 @@ aliases: materiais
 
 Monocristais: controle do crescimento dos cristais dos elementos, faz com que todos os cristais cresçam no mesmo sentido. "Gomo da laranja"
 
-[[000 - Propriedades dos Materiais |Propriedades dos materiais]]
+[[Propriedades dos Materiais|Propriedades dos materiais]]
 
 #trabalhos/feitos/pesquisa 
 #### Propriedades Óticas dos materiais:

@@ -1,6 +1,6 @@
 ---
 tag: estrutura cristalina
-aliases:
+aliases: estrutura cristalina, estruturas cristalinas, Estrutura Cristalina, Estrutura cristalina
 ---
 
 ## Perlita Grosseira
@@ -9,6 +9,14 @@ aliases:
 - Grão pequenos
 - Estrutura uniforme
 - Cemetida + Ferrita #question 
+
+## Austenita (Ferro $\gamma$)
+- Cúbica de face centrada (CFC)
+- 
+## Cementita
+
+## Ferrita (Ferro $\alpha$)
+- Cúbica de corpo centrado (CCC)
 
 ## Célula Unitária
 - Cúbica de Corpo Centrado (CCC)

@@ -26,7 +26,7 @@ Usinagem, furacão, retificação
 	[[Usinagem#CNC|CNC]]
 
 
-## [[000 - Tratamento Térmico|Tratamento Térmico]]
+## [[Conhecimento Técnico/Tratamento Térmico|Tratamento Térmico]]
 Melhoras as propriedades mecânicas e físicas 
 
 ## Manufatura

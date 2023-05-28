@@ -1,14 +1,25 @@
-- Altera as [[Main/Conhecimento Técnico/Propriedades Mecânicas|propriedades mecânicas]]
+---
+tag: Tratamento Térmico
+aliases: Tratamento Térmico, tratamento térmico, Tratamento térmico 
+---
+- Altera as [[Main/Conhecimento Técnico/Propriedades Mecânicas|propriedades mecânicas]] dos materiais, como:
 	- Composição química
-	- [[Estrutura cristalina]]
+	- [[Estrutura Cristalina]]
 	- Melhora a ductilidade
-	- Melhorar usinabilidade
-	- Melhorar resistência 
+	- Melhorar [[Propriedades Tecnológicas#Usinabilidade|usinabilidade]]
+	- Melhorar resistência ao desgaste
+	- Melhorar as propriedades de corte
+	- Melhorar a resistência a corrosão
+	- Melhorar a resistência ao calor
+	- Modificação das [[Conhecimento Técnico/Propriedades Elétricas|propriedades elétricas]] e [[Conhecimento Técnico/Propriedades Magnéticas|propriedades magnéticas]]
 - Histórico de processamento mecânico e termomecânico
 - Remoção de tensões internas
 - Aumento ou diminuição da dureza
 - Aumento ou diminuição da resistência mecânica
 - Controla os ciclos de aquecimento e resfriamento
+- Acima da zona crítica
+- O aquecimento lento causa crescimento excessivo dos grãos de [[Estrutura Cristalina#Austenita (Ferro $ gamma$)|austenita]], tornando o aço frágil
+- O aquecimento rápido pode causar em aços ligados ou com acúmulo de tensões o empenamento e fissuras
 
 ## Têmpera (Quenched)
 - Aumenta a dureza do material
@@ -16,15 +27,15 @@
 	- Em água
 	- Em óleo
 	- Em banho de sal
-- Atinge a zona austenítica do aço
-- Obtém mastersita 
-- Por conta das tensões criadas após faz-se [[000 - Tratamento Térmico#Revenimento (Tempered)]]
+- Atinge a zona [[Estrutura Cristalina#Austenita (Ferro $ gamma$)|austenítica]] do aço
+- Obtém martensita 
+- Por conta das tensões criadas após faz-se [[Conhecimento Técnico/Tratamento Térmico#Revenimento (Tempered)|revenimento]]
 
 - Ensaio Jominy - Mede a temperabilidade e endurecibilidade do material
 
 ## Revenimento (Tempered)
 - Realizado após a têmpera
-	- Feito na zona austenitica (A3) do material (abaixo de 723°C)
+	- Feito na zona [[Estrutura Cristalina#Austenita (Ferro $ gamma$)|austenitica]] (A3) do material (abaixo de 723°C)
 	- [[#Alívio de Tensão]]
 	- A dureza final depende da temperatura aplicada no tratamento
 
@@ -32,17 +43,17 @@
 1. Aquecimento
 	- Caixa de areia ou de material isolante
 	- Forno
-	- 50 °C acima da linha de austenitização
+	- 50 °C acima da linha de [[Estrutura Cristalina#Austenita (Ferro $ gamma$)|austenitização]]
 1. Permanência em temperatura desejável
 2. Resfriamento controlado até a temperatura ambiente
 
 - As temperaturas e tempos dependem das dimensões e geometrias das peças
 - Usa o termo apontar (afinar)
 
-- Melhora a usinabilidade
-- Aumenta a [[000 - Propriedades dos Materiais#Ductilidade|ductilidade]]
+- Melhora a [[Propriedades Tecnológicas#Usinabilidade|usinabilidade]]
+- Aumenta a [[Propriedades dos Materiais#Ductilidade|ductilidade]]
 - Reduz a [[dureza]] e a resistência
-- [[000 - Tratamento Térmico#Alívio de Tensão|Alivia tensões internas]]
+- [[Conhecimento Técnico/Tratamento Térmico#Alívio de Tensão|Alivia tensões internas]]
 - Geralmente após laminação para reverter o escruamento
 
 ### Intermediário
@@ -53,10 +64,10 @@
 ### Pleno
  - Entre 15 e 40 °C acima da linha A1 ou A3
  - Após atingir o equilíbrio refriar em forno
- - Forma [[Estrutura Cristalina#Perlita Grosseira|perlita grosseira]] em [[000 - Tratamento Térmico#Aços de Baixo e Médio Carbono|aços de baixo e médio teor de carbono]] que sofrerão extensa deformação plástica
+ - Forma [[Estrutura Cristalina#Perlita Grosseira|perlita grosseira]] em [[Aços#Aços de Baixo e Médio Carbono|aços de baixo teor de carbono]] que sofrerão extensa deformação plástica
 
 ## Normalização
-- Aquecimento até a zona austenítica
+- Aquecimento até a zona [[Estrutura Cristalina#Austenita (Ferro $ gamma$)|austenítica]]
 - Resfriamento ao tempo 
 
 # Tratamentos térmoquímicos
@@ -115,7 +126,7 @@
 
 # Cianetação
 - Absorve carbono e nitrogênio
-- Aquecimento acima da linha austenitização
+- Aquecimento acima da linha [[Estrutura Cristalina#Austenita (Ferro $ gamma$)|austenitização]]
 - Em sal fundido
 	- 30 a 97% de cianeto de sódio
 	- 2 a 40% de carbonato de sódio
@@ -147,23 +158,6 @@
 	- Transformação de fases que seja induzida mediante um resfriamento onde as fases de origem e de produto possuem densidades diferentes.
 	
 ![[Gráfico - Alívio de Tensão|500]]
- 
-### Aços de Baixo e Médio Carbono
- - Preferencialmente sem tratamento
- - Tratamento a quente ou a frio
- - Conforme o processo de fabricação pode gerar:
-	 - Ferrita
-	 - Perlita
-	 - Cementita
-- 1020 não tempera, pois no diagrama TTT (Curva C) mostra que o tempo na fase austenítica é muito rápida, portanto não há tempera em todo material, a curva TTT corta o eixo das ordenadas
-
-### Aços de Alto Carbono
- - Geralmente são tartados térmicamente 
- - Aço 4140 - Eixos 
-	 - resistência mecânica
-	  - residência torção 
-
-- aços com cromo tende a terem trincas como capilares na siderúrgica, causado pelo acúmulo de hidrogênio
 
 Tensão verdadeira considera a diminuição da seção do material 
 
@@ -171,7 +165,6 @@ ZTA: Zona Termicamente Afetada
 
 Atmosfera controlada: controla a carbonatação do aço, minimizando o nível de oxidação
 
-[[Aços com 0,4% de carbono]]
 
 
 
