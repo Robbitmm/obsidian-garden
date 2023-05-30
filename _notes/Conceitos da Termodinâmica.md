@@ -12,6 +12,15 @@ aliases: conceitos da termodinâmica
 - Se dois sistemas de mesma temperatura estão em [[Leis da Termodinâmica#Lei 0 (Equilíbrio térmico)|equilíbrio térmico]], nesse caso Δt = 0. Não houve troca de calor. Isso é chamado de "[[Leis da Termodinâmica#Lei 0 (Equilíbrio térmico)|princípio 0 da termodinâmica]]" que equivale ao equilíbrio de temperatura
 - A temperatura é o número que mede a tendência do [[#Sistema|sistema]] de transferir energia em forma de [[#Calor|calor]] dele para outro [[#Sistema|sistema]]
 
+### Pressão ($P$)
+  Módulo de uma força dividida pela área de aplicação
+  $$P = \frac{F}{A}$$
+#### Pressão hidrostática
+  Pressão produzida por um determinado fluido em equilíbrio estático (repouso)
+
+#### Pressão absoluta 
+  Soma da pressão hidrostática com a pressão atmosférica
+
 ### Sistema
   Espaço onde se processa o fluxo de material
 
@@ -32,9 +41,7 @@ Permite a troca de calor com o meio
 Não permite a troca de calor com o meio
 
 ## Processos dos gases ideais
-### Isotérmico ($T_1=T_2=\Delta u=0$)
-- [[Conceitos da Termodinâmica#Temperatura|Temperatura]] constante
-- [[Fórumlas Termodinâmica#Variação de energia interna ($ Delta u$)|Variação de energia interna]] ($\Delta u$) = 0
+
 ### Isotermo (Lei de Boyle)
  - Volume constante
 ### Isóbaro
