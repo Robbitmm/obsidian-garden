@@ -40,20 +40,6 @@ Permite a troca de calor com o meio
 #### Fronteira com Isolamento
 Não permite a troca de calor com o meio
 
-## Processos dos gases ideais
-
-### Isotermo (Lei de Boyle)
- - Volume constante
-### Isóbaro
- - Pressão constante
-### Isométrico / Isovolumétrico / Isocórico ($V_1=V_2=W=0$)
-- Volume constante
-- Se não há variação de volume, o trabalho (W) é 0
-### Isentropo
-- Entropia constante
-### Polítropo
-  - Nenhuma das grandezas permanece igual
-
 ### Sistema Diatérmico
 Permite a troca de valor através da fronteira 
 
@@ -69,6 +55,10 @@ Transformação (expansão) violenta de um gás em energia sem troca de calor
 ### Gases ideiais
  - Se comporta conforme esperado, obdece a lei P, V, T, m
  - Gases de laboratório
- 
+
+## Entropia ($S$)
+- Grau de desordem de um [[Conceitos da Termodinâmica#Sistema|sistema]]
+- Quantidade de energia térmica que não é transformada em trabalho
+
 #### [[Termodinâmica - Lista 2#Conceitos da Termodinâmica Ciclo Carnot Ciclo de Carnot|Exercício ciclo de Carnot]]
 
