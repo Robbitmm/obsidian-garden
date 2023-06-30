@@ -90,4 +90,6 @@ $$\Delta H = - W_{dp} = m * C_p(T_f-T_i) = K * \Delta u = -K * W_{dv}$$
 
 1. $$P_i * V_i^n = P_f * V_f^n$$
 2. $$\frac{P_f}{P_i} = \bigg( \frac{V_i}{V_f} \bigg) ^ n$$
-3. 
+
+
+[[Processos dos gases ideais#Variação da entalpia ($\Delta H$)]]
