@@ -6,7 +6,7 @@ aliases: Processo dos gases ideais, processo dos gases ideais
 [[Fórumlas Termodinâmica|Fórmulas básicas da termodinâmica]]
 
 ## Isotérmico / Isotermo (*Boyle - Marriote*) ($T_i=T_f$)
-- [[Conceitos da Termodinâmica# Temperatura|Temperatura]] constante ($T_i=T_f$)
+- [[Conceitos da Termodinâmica#Temperatura]] constante ($T_i=T_f$)
 - [[Fórumlas Termodinâmica#Variação de energia interna ($ Delta u$)|Variação de energia interna]] ($\Delta u$) = 0
 - [[Fórumlas Termodinâmica#Variação Entalpia ($ Delta H$)|Variação da entalpia]] ($\Delta H$ ) = 0
 - [[Processos dos gases ideais#Trabalho por variação de volume ($W_{dv}$)|Trabalho por variação de volume]] = [[Processos dos gases ideais#Trabalho por variação de pressão ($W_{dp}$)|Trabalho por variação de pressão]] = [[Conceitos da Termodinâmica#Calor|Calor]]-> ($W_{dv}=W_{dp}=Q$) 
