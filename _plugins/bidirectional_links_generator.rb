@@ -46,7 +46,7 @@ class BidirectionalLinksGenerator < Jekyll::Generator
 
         ##test
         current_note.content.gsub!(
-          /\[\[#{title_from_data}\#(.+?)(?=\])\]\]+\|(.+?)(?=\])\]\]/i,
+          /\[\[#{note_title_regexp_pattern}\#(.+?)(?=\])\]\]+\|(.+?)(?=\])\]\]/i,
           anchor_tag
         )
 
