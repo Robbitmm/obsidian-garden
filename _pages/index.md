@@ -11,7 +11,7 @@ permalink: /
 
 Notas pessoais sobre conhecimentos pessoais
 
-<strong>Recently updated notes</strong>
+<strong>Últimas atualizações</strong>
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
