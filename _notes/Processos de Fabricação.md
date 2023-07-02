@@ -22,7 +22,7 @@ Usinagem, furacão, retificação
 
 ### [[Usinagem]]
 	[[Usinagem|Convencional]]
-	[[Usinagem#Não Convencional|Não Convencional]]
+	[[Usinagem|Não Convencional]]
 	[[Usinagem|CNC]]
 
 

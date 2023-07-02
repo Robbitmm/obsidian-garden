@@ -9,7 +9,7 @@ aliases: exercícios termodinâmica
 	[[Conceitos da Termodinâmica]]
 
 ---
-## [[Leis da Termodinâmica#1ª lei da termodinâmica|1ª lei da termodinâmica]]
+## [[Leis da Termodinâmica|1ª lei da termodinâmica]]
 #### 1.  Numa transferência de energia gasosa reversível. ∆u=300J. Houve uma compressão e o trabalho realizado pela força de pressão do gás é em módulo 200J.
 
 $$Q=∆u+W$$

@@ -9,7 +9,7 @@ aliases: conceitos da termodinâmica
 ### Temperatura:
 - Associa os conceitos de quente e frio. 
 - Grau de agitação (alta energia cinética) térmica das moléculas
-- Se dois sistemas de mesma temperatura estão em [[Conhecimento Técnico/Leis da Termodinâmica#Lei 0 (Equilíbrio térmico)|equilíbrio térmico]], nesse caso Δt = 0. Não houve troca de calor. Isso é chamado de "[[Leis da Termodinâmica#Lei 0 (Equilíbrio térmico)|princípio 0 da termodinâmica]]" que equivale ao equilíbrio de temperatura
+- Se dois sistemas de mesma temperatura estão em [[Conhecimento Técnico/Leis da Termodinâmica|equilíbrio térmico]], nesse caso Δt = 0. Não houve troca de calor. Isso é chamado de "[[Leis da Termodinâmica|princípio 0 da termodinâmica]]" que equivale ao equilíbrio de temperatura
 - A temperatura é o número que mede a tendência do [[|sistema]] de transferir energia em forma de [[|calor]] dele para outro [[|sistema]]
 
 ### Pressão ($P$)
@@ -60,5 +60,5 @@ Transformação (expansão) violenta de um gás em energia sem troca de calor
 - Grau de desordem de um [[Conceitos da Termodinâmica|sistema]]
 - Quantidade de energia térmica que não é transformada em trabalho
 
-#### [[Termodinâmica - Lista 2#Conceitos da Termodinâmica Ciclo Carnot Ciclo de Carnot|Exercício ciclo de Carnot]]
+#### [[Termodinâmica - Lista 2|Exercício ciclo de Carnot]]
 

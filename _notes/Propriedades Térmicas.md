@@ -6,5 +6,5 @@
 
 ## Temperabilidade
  - Mudança da estrutura cristalina como efeito do aquecimento seguido do resfriamento 
- - [[Main/Conhecimento Técnico/Tratamento Térmico#Têmpera (Quenched)|Têmpera (Quenched)]]
+ - [[Main/Conhecimento Técnico/Tratamento Térmico|Têmpera (Quenched)]]
  

@@ -87,5 +87,5 @@ Aço duplex: aço com dois materiais
   - Materiais compostos pelos mesmos elementos com diferentes arranjos
   - Grafite e diamante
 	  - Mesma composição (carbono)
-	  - [[Estrutura Cristalina#Célula Unitária|Células unitárias]] diferentes
+	  - [[Estrutura Cristalina|Células unitárias]] diferentes
 	

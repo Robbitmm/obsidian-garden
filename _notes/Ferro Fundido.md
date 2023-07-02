@@ -61,10 +61,10 @@ Quando ligados:
 
 #### Processo de maleabilização
 ##### Descarbonelação
-- [[Ferro Fundido#Ferro fundido maleável|Ferro fundido maleável]] de núcleo branco
+- [[Ferro Fundido|Ferro fundido maleável]] de núcleo branco
 - Europeu
 ##### Grafitização
-- [[Ferro Fundido#Ferro fundido maleável|Ferro fundido maleável]] de núcleo preto
+- [[Ferro Fundido|Ferro fundido maleável]] de núcleo preto
 - EUA
 
 #### Aplicações
@@ -92,9 +92,9 @@ Quando ligados:
 - Inserção de magnésio (Mg) como inibidor de grafitização
 - Inicio da solidificação forma [[Estrutura Cristalina|cementita]]
 - Após a ação do magnésio (Mg), forma-se grafita esférica
-- [[Conhecimento Técnico/Tratamento Térmico#Recozimento (Annealed)|Recozimento]] e [[Conhecimento Técnico/Tratamento Térmico#Normalização|normalização]] decompõe a [[Estrutura Cristalina|cementita]] em [[Estrutura Cristalina#Ferrita (Ferro $ alpha$)|ferrita]]
+- [[Conhecimento Técnico/Tratamento Térmico|Recozimento]] e [[Conhecimento Técnico/Tratamento Térmico|normalização]] decompõe a [[Estrutura Cristalina|cementita]] em [[Estrutura Cristalina|ferrita]]
 	- Produz grafita esférica
-	- [[Conhecimento Técnico/Tratamento Térmico#Alívio de Tensão|Alivia as tensões]]
+	- [[Conhecimento Técnico/Tratamento Térmico|Alivia as tensões]]
 	- Melhora as [[Conhecimento Técnico/Propriedades Mecânicas|Propriedades Mecânicas]]
 
 #### Aplicações

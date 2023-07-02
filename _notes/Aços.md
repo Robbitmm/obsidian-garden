@@ -30,7 +30,7 @@ A união das partículas formam as [[Estrutura Cristalina|estruturas cristalinas
 	 - Ferrita
 	 - Perlita
 	 - Cementita
-- 1020 não tempera, pois no diagrama TTT (Curva C) mostra que o tempo na fase [[Estrutura Cristalina#Austenita (Ferro $ gamma$)|austenítica]] é muito rápida, portanto não há tempera em todo material, a curva TTT corta o eixo das ordenadas
+- 1020 não tempera, pois no diagrama TTT (Curva C) mostra que o tempo na fase [[Estrutura Cristalina|austenítica]] é muito rápida, portanto não há tempera em todo material, a curva TTT corta o eixo das ordenadas
 
 ### Aços de Alto Carbono
 - Maior resistência

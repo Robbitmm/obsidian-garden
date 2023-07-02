@@ -23,7 +23,7 @@ Definem o comportamento do material quando submetido a um esforço
 
 ## Fluência
 - Sofre alongamento contínuo até a ruptura
-- Presente em materiais ferrosos submetidos a [[Conhecimento Técnico/Ensaios Mecânicos#Tração|tração]] em altas temperaturas
+- Presente em materiais ferrosos submetidos a [[Conhecimento Técnico/Ensaios Mecânicos|tração]] em altas temperaturas
 
 ## Resiliência
 - Capacidade de resistir a choques e pancadas sem se deformar plásticamente

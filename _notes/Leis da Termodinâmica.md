@@ -13,8 +13,8 @@ celsopimenta@brazcubas.edu.br
     - A quantidade total de energia em um sistema isolado é sempre a mesma, exceto quando se transforma em outras energias
     - Conserva a energia em forma de calor e trabalho
     - Realiza trabalho
-    ![[Fórumlas Termodinâmica#Variação de energia interna ($ Delta u$)]]
-[[Exercícios termodinâmica#1. Numa transferência de energia gasosa reversível. ∆u=300J. Houve uma compressão e o trabalho realizado pela força de pressão do gás é em módulo 200J.|1. Numa transferência de energia gasosa reversível. ∆u=300J. Houve uma compressão e o trabalho realizado pela força de pressão do gás é em módulo 200J.]]
+    ![[Fórumlas Termodinâmica]]
+[[Exercícios termodinâmica|1. Numa transferência de energia gasosa reversível. ∆u=300J. Houve uma compressão e o trabalho realizado pela força de pressão do gás é em módulo 200J.]]
 
 # 2ª Lei da Termodinâmica ($t_0 \ne t_1$)
   Lei da transformação de energia
@@ -23,10 +23,10 @@ celsopimenta@brazcubas.edu.br
   Todo processo tem perda, nenhum sistema é 100%
   Todo calor injetado no sistema gera trabalho e calor (desperdício)
   
-![[Fórumlas Termodinâmica#Lei de Carnot]]
+![[Fórumlas Termodinâmica]]
   
  * Se $T_2$ fosse igual a 0 K o rendimento seria 100%
- * [[Exercícios termodinâmica#3. Calcule|Ciclo de Carnot]]
+ * [[Exercícios termodinâmica|Ciclo de Carnot]]
 
 # Lei 0 (Equilíbrio térmico)
  - Transfere calor do meio mais quente para o mais frio
@@ -42,23 +42,23 @@ Permite a troca de valor atravéz da fronteira
 ### Sistema Diabático 
 Impede a troca de calor atravéz da fronteira havendo variação de temperatura
 
-![[Fórumlas Termodinâmica#Trabalho por variação de volume]]
+![[Fórumlas Termodinâmica]]
 O produto $Pdv$ indica trabalho 
 ![[20230320_190138~2 1.jpg]]
 
-![[Fórumlas Termodinâmica#Variação de energia interna ($ Delta u$)]]
+![[Fórumlas Termodinâmica]]
   
 - A energia armazenada no sistema tem volume constante. 
 - Formando trabalho no sistema ele se armazém como energia interna
 - O trabalho fornecido em um sistema é negativo, portanto $∆u$ é positivo
 
-![[Fórumlas Termodinâmica#Variação Entalpia ($ Delta H$)]]
+![[Fórumlas Termodinâmica]]
 - É a energia trocada a pressão constante
 
-![[Fórumlas Termodinâmica#Trabalho Térmico (Wt)]]
+![[Fórumlas Termodinâmica]]
 - Trabalho contínuo por variação de pressão sem atrito
 
-![[Fórumlas Termodinâmica#Variação entropia ($ Delta s$)]]  
+![[Fórumlas Termodinâmica]]  
  -  Base da 2 lei
  - Energia evoluída no processo
  - Função ligada a desordem molecular
