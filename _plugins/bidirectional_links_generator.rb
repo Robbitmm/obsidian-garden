@@ -44,6 +44,12 @@ class BidirectionalLinksGenerator < Jekyll::Generator
           anchor_tag
         )
 
+        ##test
+        current_note.content.gsub!(
+          /\[\[#{title_from_data}\#(.+?)(?=\])\]\]\|(.+?)(?=\])\]\]/i,
+          anchor_tag
+        )
+
         # Replace double-bracketed links using note title
         # [[a note about cats]]
         current_note.content.gsub!(

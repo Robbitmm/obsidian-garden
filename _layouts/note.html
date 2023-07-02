@@ -1,19 +1,7 @@
 ---
 layout: default
 ---
-<script>
-  document
-    .querySelector('#notes-entry-container')
-    .querySelectorAll('h1,h2,h3,h4,h5,h6')
-    .forEach(function (heading) {
-      if (heading.id)
-        heading.innerHTML =
-          '<a href="#' + heading.id + '">' +
-            heading.innerText +
-          '<\/a>' +
-          '<span class="anchor-icon">§<\/span>';
-    });
-</script>
+
 
 <article>
   <div>
