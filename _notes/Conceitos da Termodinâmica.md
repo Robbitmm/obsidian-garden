@@ -9,8 +9,8 @@ aliases: conceitos da termodinâmica
 ### Temperatura:
 - Associa os conceitos de quente e frio. 
 - Grau de agitação (alta energia cinética) térmica das moléculas
-- Se dois sistemas de mesma temperatura estão em [[Leis da Termodinâmica#Lei 0 (Equilíbrio térmico)|equilíbrio térmico]], nesse caso Δt = 0. Não houve troca de calor. Isso é chamado de "[[Leis da Termodinâmica#Lei 0 (Equilíbrio térmico)|princípio 0 da termodinâmica]]" que equivale ao equilíbrio de temperatura
-- A temperatura é o número que mede a tendência do [[#Sistema|sistema]] de transferir energia em forma de [[#Calor|calor]] dele para outro [[#Sistema|sistema]]
+- Se dois sistemas de mesma temperatura estão em [[Conhecimento Técnico/Leis da Termodinâmica#Lei 0 (Equilíbrio térmico)|equilíbrio térmico]], nesse caso Δt = 0. Não houve troca de calor. Isso é chamado de "[[Leis da Termodinâmica#Lei 0 (Equilíbrio térmico)|princípio 0 da termodinâmica]]" que equivale ao equilíbrio de temperatura
+- A temperatura é o número que mede a tendência do [[|sistema]] de transferir energia em forma de [[|calor]] dele para outro [[|sistema]]
 
 ### Pressão ($P$)
   Módulo de uma força dividida pela área de aplicação
@@ -41,7 +41,7 @@ Permite a troca de calor com o meio
 Não permite a troca de calor com o meio
 
 ### Sistema Diatérmico
-Permite a troca de valor através da fronteira 
+Permite a troca de calor através da fronteira 
 
 ### Sistema Diabático 
 Impede a troca de calor através da fronteira havendo variação de temperatura
@@ -49,7 +49,7 @@ Impede a troca de calor através da fronteira havendo variação de temperatura
 ### Transformação adiabático ($Q=0$)
 Transformação (expansão) violenta de um gás em energia sem troca de calor
 - Intransponível
-- Sistema isolado da [[Conceitos da Termodinâmica#Fronteiras do Sistema|fronteira]] impedindo transferência de calor com o meio
+- Sistema isolado da [[Conceitos da Termodinâmica|fronteira]] impedindo transferência de calor com o meio
 - $\Delta u$ negativo 
 
 ### Gases ideiais
@@ -57,7 +57,7 @@ Transformação (expansão) violenta de um gás em energia sem troca de calor
  - Gases de laboratório
 
 ## Entropia ($S$)
-- Grau de desordem de um [[Conceitos da Termodinâmica#Sistema|sistema]]
+- Grau de desordem de um [[Conceitos da Termodinâmica|sistema]]
 - Quantidade de energia térmica que não é transformada em trabalho
 
 #### [[Termodinâmica - Lista 2#Conceitos da Termodinâmica Ciclo Carnot Ciclo de Carnot|Exercício ciclo de Carnot]]

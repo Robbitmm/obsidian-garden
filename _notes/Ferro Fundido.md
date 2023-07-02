@@ -4,7 +4,7 @@ aliases: ferro fundido, fofo
 ---
 - Liga de ferro-carbono-silício
 - Acima de 2% de carbono (C)
-- Quantidade de carbono (C) é superior  à que pode ser retida em solução sólida na [[Estrutura Cristalina#Austenita|austenita]], desta forma, no ferro fundido há carbono parcialmente livre.
+- Quantidade de carbono (C) é superior  à que pode ser retida em solução sólida na [[Estrutura Cristalina|austenita]], desta forma, no ferro fundido há carbono parcialmente livre.
 	- O carbono livre se apresenta na forma de veios ou lamelas de grafita
 
 ## Tipos
@@ -39,11 +39,11 @@ Quando ligados:
 
 ### Ferro fundido branco
 - A fratura apresenta coloração clara
-- Carbono quase inteiramente ligado em $Fe_3C$ ([[Estrutura Cristalina#Cementita|cementita]])
+- Carbono quase inteiramente ligado em $Fe_3C$ ([[Estrutura Cristalina|cementita]])
 - Menor teor de silício (Si)
 - Elevada [[dureza]]
 - Elevada resistência ao desgaste
-- baixa [[Propriedades Tecnológicas#Usinabilidade|usinabilidade]]
+- baixa [[Propriedades Tecnológicas|usinabilidade]]
 
 #### Aplicações
 - Cilindros para laminação de borracha
@@ -52,10 +52,10 @@ Quando ligados:
 - Peças para moagem de cimento
 
 ### Ferro fundido misto
-- Mistura de [[Ferro Fundido#Ferro fundido cinzento|ferro fundido cinzento]] e [[Ferro Fundido#Ferro fundido branco|ferro fundido branco]] 
+- Mistura de [[Ferro Fundido|ferro fundido cinzento]] e [[Ferro Fundido|ferro fundido branco]] 
 
 ### Ferro fundido maleável
-- Material intermediário entre [[Aços]] e [[Ferro Fundido#Ferro fundido cinzento|ferro fundido cinzento]]
+- Material intermediário entre [[Aços]] e [[Ferro Fundido|ferro fundido cinzento]]
 - Média ductilidade
 - Resistência a corrosão
 
@@ -90,9 +90,9 @@ Quando ligados:
 
 #### Processo de nodulização
 - Inserção de magnésio (Mg) como inibidor de grafitização
-- Inicio da solidificação forma [[Estrutura Cristalina#Cementita|cementita]]
+- Inicio da solidificação forma [[Estrutura Cristalina|cementita]]
 - Após a ação do magnésio (Mg), forma-se grafita esférica
-- [[Conhecimento Técnico/Tratamento Térmico#Recozimento (Annealed)|Recozimento]] e [[Conhecimento Técnico/Tratamento Térmico#Normalização|normalização]] decompõe a [[Estrutura Cristalina#Cementita|cementita]] em [[Estrutura Cristalina#Ferrita (Ferro $ alpha$)|ferrita]]
+- [[Conhecimento Técnico/Tratamento Térmico#Recozimento (Annealed)|Recozimento]] e [[Conhecimento Técnico/Tratamento Térmico#Normalização|normalização]] decompõe a [[Estrutura Cristalina|cementita]] em [[Estrutura Cristalina#Ferrita (Ferro $ alpha$)|ferrita]]
 	- Produz grafita esférica
 	- [[Conhecimento Técnico/Tratamento Térmico#Alívio de Tensão|Alivia as tensões]]
 	- Melhora as [[Conhecimento Técnico/Propriedades Mecânicas|Propriedades Mecânicas]]

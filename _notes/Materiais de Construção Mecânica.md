@@ -81,7 +81,7 @@ Aço duplex: aço com dois materiais
 
 ## Ponto eutetóide
 - Um sólido gera dois sólidos
-- $\gamma \leftarrow \alpha$ + [[Estrutura Cristalina#Perlita Grosseira|perlita]]
+- $\gamma \leftarrow \alpha$ + [[Estrutura Cristalina|perlita]]
 
 ## Polimorfismo
   - Materiais compostos pelos mesmos elementos com diferentes arranjos

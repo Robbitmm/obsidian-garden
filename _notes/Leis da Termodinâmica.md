@@ -19,7 +19,7 @@ celsopimenta@brazcubas.edu.br
 # 2ª Lei da Termodinâmica ($t_0 \ne t_1$)
   Lei da transformação de energia
   Indica a troca de valor que têm tendências para igualar diferentes temperaturas, buscando o [[#Lei 0 (Equilíbrio térmico)|equilíbrio térmico]]. Esse processo acontece de forma espontânea.
-  O [[Conceitos da Termodinâmica#Calor|calor]] é transmitido do corpo com maior [[Conceitos da Termodinâmica#Temperatura|temperatura]] para o de menor [[Conceitos da Termodinâmica#Temperatura|temperatura]].
+  O [[Conceitos da Termodinâmica|calor]] é transmitido do corpo com maior [[Conceitos da Termodinâmica|temperatura]] para o de menor [[Conceitos da Termodinâmica|temperatura]].
   Todo processo tem perda, nenhum sistema é 100%
   Todo calor injetado no sistema gera trabalho e calor (desperdício)
   

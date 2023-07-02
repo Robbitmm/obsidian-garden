@@ -23,8 +23,8 @@ Processo de remoção de material em forma de cavaco
  - Corte eletroquímico
 
 ## Ferramentas
-- Elevada [[Conhecimento Técnico/Propriedades Mecânicas#Dureza|dureza]] a frio e a quente - Superior a da peça
-- [[Conhecimento Técnico/Propriedades Mecânicas#Tenacidade|Tenacidade]] para resistir a esforço de corte e impacto
+- Elevada [[Conhecimento Técnico/Propriedades Mecânicas|dureza]] a frio e a quente - Superior a da peça
+- [[Conhecimento Técnico/Propriedades Mecânicas|Tenacidade]] para resistir a esforço de corte e impacto
 - Resistência a abrasão
 - Disponibilidade no mercado
 - Custo

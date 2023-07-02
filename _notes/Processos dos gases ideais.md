@@ -6,10 +6,10 @@ aliases: Processo dos gases ideais, processo dos gases ideais
 [[Fórumlas Termodinâmica|Fórmulas básicas da termodinâmica]]
 
 ## Isotérmico / Isotermo (*Boyle - Marriote*) ($T_i=T_f$)
-- [[Conceitos da Termodinâmica]] constante ($T_i=T_f$)
+- [[Conceitos da Termodinâmica|Temperatura]] constante ($T_i=T_f$)
 - [[Fórumlas Termodinâmica#Variação de energia interna ($ Delta u$)|Variação de energia interna]] ($\Delta u$) = 0
 - [[Fórumlas Termodinâmica#Variação Entalpia ($ Delta H$)|Variação da entalpia]] ($\Delta H$ ) = 0
-- [[Processos dos gases ideais#Trabalho por variação de volume ($W_{dv}$)|Trabalho por variação de volume]] = [[Processos dos gases ideais#Trabalho por variação de pressão ($W_{dp}$)|Trabalho por variação de pressão]] = [[Conceitos da Termodinâmica#Calor|Calor]]-> ($W_{dv}=W_{dp}=Q$) 
+- [[Processos dos gases ideais#Trabalho por variação de volume ($W_{dv}$)|Trabalho por variação de volume]] = [[Processos dos gases ideais#Trabalho por variação de pressão ($W_{dp}$)|Trabalho por variação de pressão]] = [[Conceitos da Termodinâmica|Calor]]-> ($W_{dv}=W_{dp}=Q$) 
 
 ### Trabalho por variação de volume ($W_{dv}$)
 $$W_{dv} = m * R * T_i * ln \frac{V_f}{V_i} = m * R * T_i * ln \frac{P_i}{P_f}$$
@@ -24,7 +24,7 @@ $$W_{dp} = W_{dv} = Q$$
 ## Isóbaro *(Bay-Lussak)* ($P_i = P_f$)
 - [[Conceitos da Termodinâmica#Pressão ($P$)|Pressão]] constante ($P_i=P_f$)
 - Trabalho por variação de pressão ($W_{dp}$) = 0
-- [[Conceitos da Termodinâmica#Calor|Calor]] = [[Fórumlas Termodinâmica#Variação Entalpia ($ Delta H$)|Variação da entalpia]] ($Q = \Delta H$)
+- [[Conceitos da Termodinâmica|Calor]] = [[Fórumlas Termodinâmica#Variação Entalpia ($ Delta H$)|Variação da entalpia]] ($Q = \Delta H$)
 
 ### Trabalho por variação de volume ($W_{dv}$)
 $$W_{dv} = P_i(V_f-V_i) = m * R(T_f-T_i)$$
@@ -57,7 +57,7 @@ $$\Delta s = m * C_v * ln \frac{T_f}{T_i} = m * C_v * ln \frac{P_f}{P_i}$$
 ## Isentropo / Isentrópico ($S_i = S_f$)
 - [[Conceitos da Termodinâmica#Entropia ($S$)|Entropia]] constante ($S_i = S_f$)
 - O sistema é isolado termicamente
-- Variação de [[Conceitos da Termodinâmica#Calor|calor]] = variação da [[Conceitos da Termodinâmica#Entropia ($S$)|entropia]] = 0 -> ($Q = \Delta s = 0$)
+- Variação de [[Conceitos da Termodinâmica|calor]] = variação da [[Conceitos da Termodinâmica#Entropia ($S$)|entropia]] = 0 -> ($Q = \Delta s = 0$)
 - Trabalho por variação de volume = - [[Fórumlas Termodinâmica#Variação de energia interna ($ Delta u$)|variação de energia interna]] ($W_{dv} = - \Delta u$)
 
 ### Constante de Boltzmann ($K$) 
@@ -86,10 +86,8 @@ $$\Delta H = - W_{dp} = m * C_p(T_f-T_i) = K * \Delta u = -K * W_{dv}$$
 
 ## Polítropo / Polítropico ($dQ \neq 0, \, dS \neq 0, \, \Delta s \neq 0$)
 - Usa-se o coeficiente polítropo ($n$) no lugar da [[Fórumlas Termodinâmica#Constante de Boltzmann ($K$)|constante de Boltzmann]] ($K$)
-- [[Conceitos da Termodinâmica#Sistema|Sistema]] não isolado termicamente
+- [[Conceitos da Termodinâmica|Sistema]] não isolado termicamente
 
 1. $$P_i * V_i^n = P_f * V_f^n$$
 2. $$\frac{P_f}{P_i} = \bigg( \frac{V_i}{V_f} \bigg) ^ n$$
-
-
-[[Processos dos gases ideais#Variação da entalpia ($\Delta H$)]]
+3. 

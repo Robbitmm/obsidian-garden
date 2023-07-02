@@ -6,7 +6,7 @@ aliases: Tratamento Térmico, tratamento térmico, Tratamento térmico
 	- Composição química
 	- [[Estrutura Cristalina]]
 	- Melhora a ductilidade
-	- Melhorar [[Propriedades Tecnológicas#Usinabilidade|usinabilidade]]
+	- Melhorar [[Propriedades Tecnológicas|usinabilidade]]
 	- Melhorar resistência ao desgaste
 	- Melhorar as propriedades de corte
 	- Melhorar a resistência a corrosão
@@ -50,8 +50,8 @@ aliases: Tratamento Térmico, tratamento térmico, Tratamento térmico
 - As temperaturas e tempos dependem das dimensões e geometrias das peças
 - Usa o termo apontar (afinar)
 
-- Melhora a [[Propriedades Tecnológicas#Usinabilidade|usinabilidade]]
-- Aumenta a [[Propriedades dos Materiais#Ductilidade|ductilidade]]
+- Melhora a [[Propriedades Tecnológicas|usinabilidade]]
+- Aumenta a [[Propriedades dos Materiais|ductilidade]]
 - Reduz a [[dureza]] e a resistência
 - [[Conhecimento Técnico/Tratamento Térmico#Alívio de Tensão|Alivia tensões internas]]
 - Geralmente após laminação para reverter o escruamento
@@ -64,7 +64,7 @@ aliases: Tratamento Térmico, tratamento térmico, Tratamento térmico
 ### Pleno
  - Entre 15 e 40 °C acima da linha A1 ou A3
  - Após atingir o equilíbrio refriar em forno
- - Forma [[Estrutura Cristalina#Perlita Grosseira|perlita grosseira]] em [[Aços#Aços de Baixo e Médio Carbono|aços de baixo teor de carbono]] que sofrerão extensa deformação plástica
+ - Forma [[Estrutura Cristalina|perlita grosseira]] em [[Aços#Aços de Baixo e Médio Carbono|aços de baixo teor de carbono]] que sofrerão extensa deformação plástica
 
 ## Normalização
 - Aquecimento até a zona [[Estrutura Cristalina#Austenita (Ferro $ gamma$)|austenítica]]

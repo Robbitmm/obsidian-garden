@@ -8,7 +8,7 @@ aliases:
 - Medida pela energia necessária para usinar o material, sob condições padrão
 
 ## Fusibilidade
-- Propriedade do material passar do estado sólido para líquido sob ação do [[Conceitos da Termodinâmica#Calor|calor]]
+- Propriedade do material passar do estado sólido para líquido sob ação do [[Conceitos da Termodinâmica|calor]]
 
 ## Soldabilidade
 - Propriedade dos materiais se unirem após aquecimento

@@ -34,7 +34,7 @@ A união das partículas formam as [[Estrutura Cristalina|estruturas cristalinas
 
 ### Aços de Alto Carbono
 - Maior resistência
-- Menor [[Main/Conhecimento Técnico/Propriedades Mecânicas#Ductilidade|ductilidade]]
+- Menor [[Main/Conhecimento Técnico/Propriedades Mecânicas|ductilidade]]
  - Geralmente são tartados térmicamente 
  - Aço 4140 - Eixos 
 	 - resistência mecânica
