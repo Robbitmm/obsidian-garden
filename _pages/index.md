@@ -9,7 +9,8 @@ permalink: /
   Não há gênio sem um toque de loucura. (Sêneca)
 </p>
 
-Notas pessoais sobre conhecimentos pessoais
+O projeto se encontra na versão beta de testes
+Alguns bugs relacionados à formatação e aos links estão sendo corrigidos.  
 
 <strong>Últimas atualizações</strong>
 

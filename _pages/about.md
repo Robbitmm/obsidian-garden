@@ -4,6 +4,5 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+E-mail: vt.biblioteca@gmail.com
 
-Feel free to tell the world about what you love! 😍
