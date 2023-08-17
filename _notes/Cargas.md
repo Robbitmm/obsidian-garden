@@ -1,5 +1,5 @@
 
-[[Conhecimento Técnico/Reações em Cargas|Reações em Cargas]]
+[[Reações em Cargas]]
 ## Conceito de carregamento
  - Causas que provocam esforços ou deformações nas estruturas.
 
