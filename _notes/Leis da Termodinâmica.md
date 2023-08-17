@@ -2,9 +2,6 @@
 tag: termodinamica, leis da termodinâmica
 aliases: termodinamica, leis da termodinâmica
 ---
-
-celsopimenta@brazcubas.edu.br
-
 [[Fórumlas Termodinâmica]]
 
 ## 1ª lei da termodinâmica

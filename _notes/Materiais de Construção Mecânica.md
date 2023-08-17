@@ -43,7 +43,7 @@ aliases: materiais
 
 Monocristais: controle do crescimento dos cristais dos elementos, faz com que todos os cristais cresçam no mesmo sentido. "Gomo da laranja"
 
-[[Propriedades dos Materiais|Propriedades dos materiais]]
+[[000 - Propriedades dos Materiais |Propriedades dos materiais]]
 
 #trabalhos/feitos/pesquisa 
 #### Propriedades Óticas dos materiais:
@@ -68,7 +68,7 @@ Amostras no microscópio
 
 # Notas
 Aço 10XX: aços carbono 
-  XX: porcentagem de carbono 
+  0,XX: porcentagem de carbono 
 
 ABNT 10B16: aço carbono 0,16% de carbono com Boro
 Aço duplex: aço com dois materiais 
@@ -76,16 +76,16 @@ Aço duplex: aço com dois materiais
 ## Ponto eutético
 - melhor ponto para se soldar um material
 - Entre líquido e sólido - [[Diagrama de fases]]
-- $\alpha + \beta$ #question
+- $\alpha (Ferrita) + \beta$ #question
 - 1 líquido gera dois solidos
 
 ## Ponto eutetóide
 - Um sólido gera dois sólidos
-- $\gamma \leftarrow \alpha$ + [[Estrutura Cristalina|perlita]]
+- $\gamma \leftarrow \alpha(Ferrita)$ + [[Estrutura Cristalina#Perlita Grosseira|perlita]]
 
 ## Polimorfismo
   - Materiais compostos pelos mesmos elementos com diferentes arranjos
   - Grafite e diamante
 	  - Mesma composição (carbono)
-	  - [[Estrutura Cristalina|Células unitárias]] diferentes
+	  - [[Estrutura Cristalina#Célula Unitária|Células unitárias]] diferentes
 	
