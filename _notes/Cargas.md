@@ -25,7 +25,7 @@
 	 - Peso da água em um reservatório sobre uma parede
 	 - A pressão do vento em uma superfície de construção
 
-s### Carga distribuída volumétrica
+### Carga distribuída volumétrica
  - Carga é distribuída uniformemente em um volume
  - Exemplo:
 	 - Carga térmica em um sólido que é aquecido uniformemente
