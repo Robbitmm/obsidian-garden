@@ -4,7 +4,7 @@ aliases: cargas, reações
 ---
 
 [[Cargas]]
-
+[[Ponto de apoio]]
 # Reação Normal ou de apoio
 - Força exercida perpendicularmente a uma superfície sobre um objeto em contato
 # Reação de Atrito

@@ -1,7 +1,23 @@
 
-[[Reações em Cargas]]
+[[Conhecimento Técnico/Reações em Cargas|Reações em Cargas]]
+[[Ponto de apoio]]
+
 ## Conceito de carregamento
  - Causas que provocam esforços ou deformações nas estruturas.
+
+## Cargas permanentes
+- Atuam sobre o corpo ao longo do tempo
+- Exemplos:
+	- Peso da estrutura
+	- Cargas suportadas
+
+## Cargas acidentais
+- Causadas por um agente externo
+- Variam com o tempo
+- Exemplos:
+	- Ação do vento
+	- Empuxo da água
+	- Efeitos de terremotos
 
 ## Cargas pontuais ou concentradas
  - Efeito de um carregamento assumindo que ele age em um ponto do corpo.
