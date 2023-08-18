@@ -8,19 +8,27 @@ aliases: estrutura cristalina, estruturas cristalinas, Estrutura Cristalina, Est
 - Dúctil
 - Grão pequenos
 - Estrutura uniforme
-- Cemetida + Ferrita #question 
+- Cemetida + Ferrita $\alpha$ #question 
 
 ## Austenita (Ferro $\gamma$)
 - Cúbica de face centrada (CFC)
-- 
-## Cementita
+- Acima de 723°C
 
+## Cementita ($Fe_3C$)
+ - Composto intermediário
+ 
 ## Ferrita (Ferro $\alpha$)
 - Cúbica de corpo centrado (CCC)
+
+## Perlita
+- Perlita e Cemetita
+- Mistura eutetóide
+- Forma laminar
 
 ## Célula Unitária
 - Cúbica de Corpo Centrado (CCC)
 - Cúbica de Face Centrada (CFC)
+- Hexagonal Simples ()
 - ...
 
 # Notas

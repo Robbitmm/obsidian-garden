@@ -1,6 +1,6 @@
 ---
-tag: Reações em Cargas, reações
-aliases: cargas, reações
+tag: Reações em Cargas, reações, reações em carga
+aliases: cargas, reações, reações em carga
 ---
 
 [[Cargas]]
