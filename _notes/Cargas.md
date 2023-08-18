@@ -1,5 +1,5 @@
 
-[[Conhecimento Técnico/Reações em Cargas|Reações em Cargas]]
+[[Reações em Cargas]]
 [[Ponto de apoio]]
 
 ## Conceito de carregamento
